@@ -1,12 +1,12 @@
 # Sergey Nakonechnyi
 
 ## Contact information:
-**Location:** Pavlograd, Ukraine
-**Phone:** +380959234654
-**E-mail:** sergeynakonechniy85@gmail.com
-**Telegram:** @Macallan777
- **Discord:** BigBoss(@Macallan555)
-**GitHub:** [Macallan555](https://github.com/Macallan555)
+- **Location:** Pavlograd, Ukraine
+- **Phone:** +380959234654
+- **E-mail:** sergeynakonechniy85@gmail.com
+- **Telegram:** @Macallan777
+- **Discord:** BigBoss(@Macallan555)
+- **GitHub:** [Macallan555](https://github.com/Macallan555)
 
 ## About me:
 
