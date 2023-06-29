@@ -6,7 +6,7 @@
 * **E-mail:** sergeynakonechniy85@gmail.com
 * **Telegram:** @John_Galt555
 * **Discord:** John Galt#6282
-* **GitHub:** Macallan555
+* **GitHub:**  [Macallan555](https://github.com/Macallan555)
 ## About me:
 I became interested in programming when I started working in a large IT company as a technical support specialist. For 2 years, I watched and was interested in how everything works, I wanted to be involved in the creation of the product. I tried to learn C sharp, Python and in the end, I settled on Front-end development. I am a visual person and I like to immediately see the result of my work. I like to work in a team and take responsibility to achieve results.
 
