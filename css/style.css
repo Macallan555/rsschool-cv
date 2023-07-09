@@ -1,5 +1,24 @@
 *,
 *::after,
-*::before{
+*::before {
   box-sizing: border-box;
 }
+
+/* .container {
+  max-width: 594px;
+}
+.wrapper {
+  background-color: #2e2e48;
+  min-height: 100vh;
+  display: flex;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  border: 4px solid #000;
+  font-size: 50px;
+  text-align: center;
+  line-height: 200px;
+  background-color: white;
+} */
