@@ -4,6 +4,85 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+
+.ccontainer {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: white;
+  margin: 40px auto;
+}
+
+.about_me_profession {
+  font-size: 14px;
+  font-weight: 700;
+  color: black;
+}
+
+.about_me {
+  /* Внешние отступы контейнера */
+    margin-top: 50px;
+    margin-bottom: 50px;    
+    margin-left: 50px;
+    margin-right: 50px; 
+
+    margin: 20px 70px 150px 100px; 
+
+  /* Внутренние отступы в контейнере  */
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-right: 70px;
+  padding-left: 70px;
+
+  padding: 50px 70px 20px 170px;
+}
+.education {
+  margin-top: 50px;
+  margin-bottom: 50px;    
+  margin-left: 50px;
+  margin-right: 50px; 
+
+  margin: 20px 70px 150px 100px; 
+
+  /* Внутренние отступы в контейнере  */
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-right: 70px;
+  padding-left: 70px;
+
+  padding: 50px 70px 20px 170px;
+}
+.my_code {
+  margin-top: 50px;
+  margin-bottom: 50px;    
+  margin-left: 50px;
+  margin-right: 50px; 
+
+  margin: 20px 70px 150px 100px; 
+
+  /* Внутренние отступы в контейнере  */
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-right: 70px;
+  padding-left: 70px;
+
+  padding: 50px 70px 20px 170px;
+}
+
+
+.sidebar_section {
+  background-color: #1e2939;
+}
+
+.image_size {
+  width: 370px;
+}
+
+
 /* .container {
   max-width: 594px;
 }
